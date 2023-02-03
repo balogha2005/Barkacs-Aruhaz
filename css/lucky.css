@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 
 body:not(#home), .modal-body{
-    background-color: #4A2C2A;
+    background-color: #096081;
 }   
 
 #home{
@@ -28,7 +28,7 @@ body:not(#home), .modal-body{
 }
 
 nav{
-    background-color: #4A2C2A;
+    background-color: #096081;
 }
 
 nav a:first-child img{
