@@ -19,8 +19,8 @@ body:not(#home), .modal-body{
 
 #home .intro .col-md-8{
     background-color: #8A8A8A;
-    opacity: 0.4;
-    right: -650px;   
+    opacity: 0.8;
+    right: -250px;   
 }
 
 .intro h1{
@@ -35,6 +35,8 @@ nav a:first-child img{
     width: 40px;
 }
 
+p {text-align: center;}
+
 .banner{
     background-image: url(../img/asd.jpg);
     background-position: center center;
@@ -44,9 +46,9 @@ nav a:first-child img{
 
 h1{
     font-family: 'Fredericka the Great', cursive;
-    color: white;
+    color: black;
     text-align: center;
-    background-color: #4A2C2A;
+    background-color: #096081;
 }
 
 h2{
