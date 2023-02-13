@@ -1,0 +1,5 @@
+body:not(#home), .modal-body{
+    background-color: #096081;
+}   
+
+background-image: url(../img/barkacs.jpg);
