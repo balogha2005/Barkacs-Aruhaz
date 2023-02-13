@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+body:not(#festekek), .modal-body{
+    background-color: #096081;
+}   
+
+#festekek{
+    height: 100vh;
+    background-image: url(../img/festek.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
