@@ -1,5 +1,7 @@
-body:not(#home), .modal-body{
-    background-color: #096081;
-}   
-
-background-image: url(../img/barkacs.jpg);
+#rolunk{
+    height: 100vh;
+    background-image: url(../img/barkacs.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
