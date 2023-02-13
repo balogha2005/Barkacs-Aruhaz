@@ -5,3 +5,17 @@
     background-position: center center;
     background-size: cover;
 }
+
+.card{
+    color: white;
+    background-color: #096081;
+    border: 1px solid white;
+}
+
+.footer .container {
+    background-color:  #096081;
+    width: 200vw;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
