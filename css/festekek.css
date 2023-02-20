@@ -7,7 +7,7 @@
 }
 
 .modal-content{
-    background-color: #eadac0;
+    background-color: #096081;
     color: white;
     font-size: 25px;
 }
@@ -56,4 +56,9 @@ footer li>img{
 footer h2{
     font-size: 2em;
     text-align: left 10px;
+}
+
+.modal-body p{
+    font-size: 1em;
+
 }
