@@ -5,3 +5,8 @@
     background-position: center center;
     background-size: cover;
 }
+
+.modal-body p{
+    font-size: 1em;
+
+}

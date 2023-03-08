@@ -2,9 +2,9 @@ function feliratkozas(){
     let email = document.getElementById('email');
     if(email.value != ""){
         email.value = "";
-        alert("Sikeresen feliratkozott! Köszönjük szépen!");
+        alert("Sikeresen feliratkozott! Köszönjük!");
     }else{
-        alert("Kérem töltse ki az E-mail mezőt!");
+        alert("Kérjük adja meg az email címét!");
     }
 }
 
