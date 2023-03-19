@@ -62,3 +62,5 @@ footer h2{
     font-size: 1em;
 
 }
+
+#row { position: relative; margin: auto; left: 425px; }
