@@ -1,0 +1,10 @@
+#szerszamok{
+    height: 100vh;
+    background-image: url(../img/szerszamhatter.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+#container { position: absolute; top: 105px; }
+#row { position: relative; margin: auto; left: 425px; }
