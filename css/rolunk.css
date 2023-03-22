@@ -1,12 +1,80 @@
-#rolunk{
+#home{
     height: 100vh;
-    background-image: url(../img/barkacs.jpg);
+    background-image: url(../img/olaszhatter.webp);
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
 }
 
-.modal-body p{
-    font-size: 1em;
+#home .intro{
+    color: white;
+    height: 100vh;
+}
 
+#home .intro .col-md-8{
+    background-color: #8A8A8A;
+    opacity: 0.8;
+    right: -250px;
+}
+
+.intro h1{
+    color: white;
+}
+
+nav{
+    background-color: #096081;
+}
+
+nav a:first-child img{
+    width: 40px;
+}
+
+p {text-align: center;}
+
+.banner{
+    background-image: url(../img/asd.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
+
+h1{
+    font-family: 'Times New Roman', cursive;
+    color: black;
+    text-align: center;
+    background-color: #096081;
+}
+
+h2{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 800px;
+    top: 120px;
+}
+nav{
+    background-color: #096081;
+}
+
+nav a:first-child img{
+    width: 40px;
+}
+
+h1{
+    font-family: 'Times New Roman', cursive;
+    color: black;
+    text-align: center;
+    background-color: #096081;
+}
+
+h2{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 800px;
+    top: 120px;
 }

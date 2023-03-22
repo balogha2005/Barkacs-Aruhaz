@@ -7,6 +7,11 @@
 }
 
 
+body{
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
 nav{
     background-color: #096081;
 }
@@ -36,6 +41,7 @@ h2{
     color: white;
     background-color: #1E3930;
     border: 1px solid white;
+    margin: 30px;
 }
 
 .card:hover{
