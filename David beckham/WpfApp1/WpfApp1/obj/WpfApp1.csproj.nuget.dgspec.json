@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JankovicsDavid\\Desktop\\grf\\csoportgeny\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\Users\\AdamBalogh\\Desktop\\jaaj\\Barkacs-Aruhaz\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JankovicsDavid\\Desktop\\grf\\csoportgeny\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\Users\\AdamBalogh\\Desktop\\jaaj\\Barkacs-Aruhaz\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JankovicsDavid\\Desktop\\grf\\csoportgeny\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\Users\\AdamBalogh\\Desktop\\jaaj\\Barkacs-Aruhaz\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "C:\\Users\\JankovicsDavid\\Desktop\\grf\\csoportgeny\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
-        "packagesPath": "C:\\Users\\JankovicsDavid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JankovicsDavid\\Desktop\\grf\\csoportgeny\\David beckham\\WpfApp1\\WpfApp1\\obj\\",
+        "projectPath": "C:\\Users\\AdamBalogh\\Desktop\\jaaj\\Barkacs-Aruhaz\\David beckham\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "packagesPath": "C:\\Users\\AdamBalogh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AdamBalogh\\Desktop\\jaaj\\Barkacs-Aruhaz\\David beckham\\WpfApp1\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JankovicsDavid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AdamBalogh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

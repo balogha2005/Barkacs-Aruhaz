@@ -1,0 +1,121 @@
+1. **Kérdés:** Mi az az osztály az objektum orientált programozásban?
+   - **Helyes válasz:** Az osztály egy sablon vagy tervezeti terv, amely alapján létrehozhatók objektumok.
+
+   - **Hamis válaszok:**
+     a) Egy változó típusa
+     b) Egy metódus neve
+     c) Egy tömb típusa
+
+2. **Kérdés:** Mit jelent az "öröklődés" fogalma az objektum orientált programozásban?
+   - **Helyes válasz:** Az öröklődés azt jelenti, hogy egy osztály megörökölheti egy másik osztály tulajdonságait és metódusait.
+
+   - **Hamis válaszok:**
+     a) Az öröklődés azt jelenti, hogy egy osztály mindig csak egyetlen másik osztálytól örökölhet
+     b) Az öröklődés csak az attribútumokra vonatkozik, nem pedig a metódusokra
+     c) Az öröklődés csak az absztrakt osztályokra alkalmazható
+
+3. **Kérdés:** Mi a konstruktor szerepe az objektum orientált programozásban?
+   - **Helyes válasz:** A konstruktor felelős az osztály példányosításakor végrehajtandó inicializációs feladatokért.
+
+   - **Hamis válaszok:**
+     a) A konstruktor csak akkor hívódik meg, ha az osztályban nincs destruktor
+     b) A konstruktor nem lehet paraméteres
+     c) A konstruktor csak statikus metódusokat hívhat meg
+
+4. **Kérdés:** Mi a különbség az absztrakt osztály és az interfész között?
+   - **Helyes válasz:** Az absztrakt osztály lehet tartalmaz implementált metódusokat, míg az interfész csak metódusoknak a fejlécét definiálja, implementáció nélkül.
+
+   - **Hamis válaszok:**
+     a) Az absztrakt osztályok csak egyféle öröklődést támogatnak
+     b) Az interfészekben csak konstruktorok lehetnek
+     c) Az absztrakt osztályok nem örökölhetnek más osztályokból
+
+5. **Kérdés:** Mi az az inkapszuláció az objektum orientált programozásban?
+   - **Helyes válasz:** Az inkapszuláció azt jelenti, hogy egy osztály adatai és metódusai el vannak rejtve más osztályok elől, és csak a szükséges interfészen keresztül érhetők el.
+
+   - **Hamis válaszok:**
+     a) Az inkapszuláció csak az öröklődési hierarchiában szereplő osztályok között érvényes
+     b) Az inkapszuláció csak publikus metódusokra vonatkozik
+     c) Az inkapszuláció csökkenti a kód újrafelhasználhatóságát
+
+6. **Kérdés:** Mi a szerepe a getter és setter metódusoknak az objektum orientált programozásban?
+   - **Helyes válasz:** A getter metódusok elérhetővé teszik az osztály privát adattagjait, míg a setter metódusok segítségével ezeket az adattagokat beállíthatjuk.
+
+   - **Hamis válaszok:**
+     a) Getter és setter metódusok csak statikus osztályokban használhatók
+     b) Getter és setter metódusokat csak az osztály konstruktorában lehet definiálni
+     c) Minden adattaghoz kötelezően szükség van getter és setter metódusokra
+
+7. **Kérdés:** Milyen kivételkezelési mechanizmusokat ismersz az objektum orientált programozásban?
+   - **Helyes válasz:** A kivételkezelés az a mechanizmus, amely lehetővé teszi a programnak, hogy kezelje a futási időben bekövetkező hibákat.
+
+   - **Hamis válaszok:**
+     a) Az összes kivételkezelési mechanizmusnak egyetlen szabványos szintaxisa van
+     b) A kivételkezelés mindig csak szinkronizált környezetben működik
+     c) A kivételkezelés csak szintaktikus hibákra alkalmazható
+
+8. **Kérdés:** Mi az a statikus metódus az objektum orientált programozásban?
+   - **Helyes válasz:** A statikus metódusok az osztályhoz tartoznak, nem pedig egy példányhoz, és a `static` kulcsszóval vannak ellátva.
+
+   - **Hamis válaszok:**
+     a) Statikus metódusok mindig csak privát attribútumokkal dolgozhatnak
+     b) Statikus metódusok nem hivatkozhatnak nem statikus metódusokra
+     c) Egy osztályban csak egyetlen statikus metódus lehet
+
+9. **Kérdés:** Mi a virtuális metódus az objektum orientált programozásban?
+   - **Helyes válasz:** A virtuális metódusok olyan metódusok, amelyeket az örökölt osztályok felül tudnak definiálni (override), így a hívásuk eredménye az aktuális objektum típusától függ.
+
+   - **Hamis válaszok:**
+     a) Virt
+
+uális metódusokat csak az absztrakt osztályokban lehet definiálni
+     b) Egy osztályban csak egyetlen virtuális metódus lehet
+     c) Virtuális metódusok csak privát attribútumokkal dolgozhatnak
+
+10. **Kérdés:** Mi a polimorfizmus szerepe az objektum orientált programozásban?
+    - **Helyes válasz:** A polimorfizmus lehetővé teszi, hogy az azonos nevű metódusok különböző osztályokban másképp viselkedjenek.
+
+    - **Hamis válaszok:**
+      a) A polimorfizmus csak az interfészekkel alkalmazható
+      b) A polimorfizmus csak a konstruktorokra vonatkozik
+      c) A polimorfizmus növeli a kód újrafelhasználhatóságát
+
+11. **Kérdés:** Mi a destruktor szerepe az objektum orientált programozásban?
+    - **Helyes válasz:** A destruktor felelős az objektum által lefoglalt erőforrások felszabadításáért, amikor az objektum megszűnik létezni.
+
+    - **Hamis válaszok:**
+      a) Destruktorokat csak abban az esetben kell definiálni, ha az osztály tartalmaz statikus metódusokat
+      b) Destruktorok csak paraméterek nélkül hozhatók létre
+      c) Destruktorok csak a virtuális osztályokban használhatók
+
+12. **Kérdés:** Mit jelent a "composition" fogalma az objektum orientált programozásban?
+    - **Helyes válasz:** A composition azt jelenti, hogy egy osztály más osztályok példányait tartalmazza, így egy szorosabb kapcsolat jön létre a két osztály között.
+
+    - **Hamis válaszok:**
+      a) A composition csak az öröklődési hierarchiában lévő osztályok között alkalmazható
+      b) A composition mindig szorosabb kapcsolatot jelent, mint az öröklődés
+      c) A composition csak akkor használható, ha az osztályok egy az egyben megvalósítják az interfészt
+
+13. **Kérdés:** Mi az a túlterhelés (overloading) az objektum orientált programozásban?
+    - **Helyes válasz:** A túlterhelés azt jelenti, hogy egy azonos nevű metódust többször is definiálhatunk az osztályban, de különböző paraméterlistával.
+
+    - **Hamis válaszok:**
+      a) Túlterhelés csak az absztrakt osztályokban alkalmazható
+      b) Túlterhelés csak akkor használható, ha az osztály egyetlen metódust tartalmaz
+      c) Túlterhelés csak az öröklődési hierarchiában szereplő osztályok között érvényes
+
+14. **Kérdés:** Milyen szerepet tölt be az interfész az objektum orientált programozásban?
+    - **Helyes válasz:** Az interfész egy szerződést definiál, amelyet egy osztálynak be kell tartania. Az interfész csak metódusokat, de nem tartalmaz implementációt.
+
+    - **Hamis válaszok:**
+      a) Az interfészek mindig tartalmaznak implementációt a metódusaikhoz
+      b) Egy osztály több interfészt is implementálhat egyszerre
+      c) Az interfészek csak privát metódusokat tartalmazhatnak
+
+15. **Kérdés:** Mi a metódus túlírás (method overriding) szerepe az objektum orientált programozásban?
+    - **Helyes válasz:** A metódus túlírás azt jelenti, hogy egy leszármazott osztály felülírja az ősosztályban meghatározott metódust, így a leszármazott osztályban más implementáció hajtódik végre.
+
+    - **Hamis válaszok:**
+      a) Metódus túlírás csak akkor lehetséges, ha az ősosztály metódusa virtuális
+      b) Metódus túlírás csak akkor használható, ha az ősosztály absztrakt
+      c) Metódus túlírás mindig ugyanazt az implementációt használja, mint az ősosztályban
